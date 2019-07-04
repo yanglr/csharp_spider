@@ -1,0 +1,11 @@
+C:\diskD\coding\spider-test\spider-test\bin\Debug\netcoreapp2.1\spider-test.deps.json
+C:\diskD\coding\spider-test\spider-test\bin\Debug\netcoreapp2.1\spider-test.runtimeconfig.json
+C:\diskD\coding\spider-test\spider-test\bin\Debug\netcoreapp2.1\spider-test.runtimeconfig.dev.json
+C:\diskD\coding\spider-test\spider-test\bin\Debug\netcoreapp2.1\spider-test.dll
+C:\diskD\coding\spider-test\spider-test\bin\Debug\netcoreapp2.1\spider-test.pdb
+C:\diskD\coding\spider-test\spider-test\obj\Debug\netcoreapp2.1\spider-test.csprojAssemblyReference.cache
+C:\diskD\coding\spider-test\spider-test\obj\Debug\netcoreapp2.1\spider-test.csproj.CoreCompileInputs.cache
+C:\diskD\coding\spider-test\spider-test\obj\Debug\netcoreapp2.1\spider-test.AssemblyInfoInputs.cache
+C:\diskD\coding\spider-test\spider-test\obj\Debug\netcoreapp2.1\spider-test.AssemblyInfo.cs
+C:\diskD\coding\spider-test\spider-test\obj\Debug\netcoreapp2.1\spider-test.dll
+C:\diskD\coding\spider-test\spider-test\obj\Debug\netcoreapp2.1\spider-test.pdb

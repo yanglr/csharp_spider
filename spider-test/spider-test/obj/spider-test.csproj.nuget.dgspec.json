@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\diskD\\coding\\spider-test\\spider-test\\spider-test.csproj": {}
+  },
+  "projects": {
+    "C:\\diskD\\coding\\spider-test\\spider-test\\spider-test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\diskD\\coding\\spider-test\\spider-test\\spider-test.csproj",
+        "projectName": "spider-test",
+        "projectPath": "C:\\diskD\\coding\\spider-test\\spider-test\\spider-test.csproj",
+        "packagesPath": "C:\\Users\\bryang\\.nuget\\packages\\",
+        "outputPath": "C:\\diskD\\coding\\spider-test\\spider-test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bryang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/abtsoftware/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
